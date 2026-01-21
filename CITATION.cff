@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite our paper."
-authors:
-  - family-names: Angelou
-    given-names: Andreas
+author:
+  - family-name: Angelou
+    given-name: Andreas
     orcid: https://orcid.org/0009-0004-6728-0753
 title: "Master-Assisted Distributed Uplink Operation"
 doi: 
 date-released: 2025-06-08
-url: "https://github.com/AndreasAgg/Master-Assisted-Distr-Uplink-Operation/"
+url: "https://github.com/AndreasAgg/Master-Assisted-Distributed-Uplink-Operation/"
